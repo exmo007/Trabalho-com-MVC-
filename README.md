@@ -87,7 +87,7 @@ Ou rodar a classe principal pela IDE.
 
 git init
 git add .
-git commit -m "Primeiro commit - Projeto Spring MVC"
+git commit -m "Primeiro commit - Trabalho-com-MVC-"
 git branch -M main
 git remote add origin https://github.com/exmo007/Trabalho-com-MVC-
 git push -u origin main
