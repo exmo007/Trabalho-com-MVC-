@@ -4,6 +4,7 @@ Este projeto implementa uma aplicação simples utilizando o padrão MVC (Model�
 Aplicação simples em Spring Boot demonstrando padrão MVC (Model-View-Controller) sem front-end.
 Entidade: **Tarefa** (CRUD via REST).
 
+
 pom.xml
 <dependencies>
     <!-- Web -->
