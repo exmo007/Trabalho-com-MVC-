@@ -48,6 +48,6 @@ git init
 git add .
 git commit -m "Entrega: trabalho-spring-mvc"
 git branch -M main
-git remote add origin https://github.com/exmo007/trabalho-spring-mvc-
+git remote add origin https://github.com/exmo007/trabalho-com-mvc-
 git push -u origin main
 ```
