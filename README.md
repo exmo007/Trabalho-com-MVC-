@@ -1,4 +1,4 @@
-# Projeto-com-MVC
+# Trabalho-com-MVC-
 Neste projeto, eu fiz uma aplicação simples usando MVC sem front-end.
 Este projeto implementa uma aplicação simples utilizando o padrão MVC (Model–View–Controller) com Spring Boot, conforme solicitado no enunciado da atividade.
 
@@ -33,5 +33,5 @@ git add .
 git commit -m "Primeiro commit - Projeto Spring MVC"
 
 git branch -M main
-git remote add origin https://github.com/exmo007/Projeto-com-MVC
+git remote add origin https://github.com/exmo007/Trabalho-com-MVC-
 git push -u origin main
