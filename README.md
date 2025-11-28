@@ -89,7 +89,7 @@ git init
 git add .
 git commit -m "Primeiro commit - Trabalho-com-MVC-"
 git branch -M main
-git remote add origin https://github.com/exmo007/Trabalho-com-MVC-
+git remote add origin https://github.com/exmo007/Trabalho-com-MVC-.git
 git push -u origin main
 
 yaml
