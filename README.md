@@ -3,6 +3,7 @@ Neste projeto, eu fiz uma aplicação simples usando MVC sem front-end
 Este projeto implementa uma aplicação simples utilizando o padrão MVC (Model–View–Controller) com Spring Boot, conforme solicitado no enunciado da atividade.
 Aplicação simples em Spring Boot demonstrando padrão MVC (Model-View-Controller) sem front-end.
 Entidade: **Tarefa** (CRUD via REST).
+
 pom.xml
 <dependencies>
     <!-- Web -->
