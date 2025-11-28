@@ -20,11 +20,11 @@ A aplicação não possui front-end e expõe endpoints REST para manipulação d
 
 ## Estrutura do Projeto
 
-/meu-projeto-spring
+/Projeto MVC
  ├── src
  │   ├── main
  │   │   ├── java
- │   │   │   └── com/meuProjeto/...
+ │   │   │   └── com/Projeto MVC/...
  │   │   └── resources
  │   │       └── application.properties
  │   └── test
@@ -83,7 +83,7 @@ Ou rodar a classe principal pela IDE.
 
 ---
 
-## 📝 Comandos Git utilizados
+## Comandos Git utilizados
 
 git init
 git add .
